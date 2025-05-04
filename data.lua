@@ -10,7 +10,7 @@ if flare_stack ~= nil then
         north = {
           layers = {
             {
-              filename = "__Ultramark5__/assets/buildings/flare-stack/flare-stack-n-mirror.png",
+              filename = "__undermark5-ultracube-tweaks__/assets/buildings/flare-stack/flare-stack-n-mirror.png",
               width = 150,
               height = 300,
               scale = 0.5,
@@ -32,7 +32,7 @@ if flare_stack ~= nil then
         east = {
           layers = {
             {
-              filename = "__Ultramark5__/assets/buildings/flare-stack/flare-stack-e-mirror.png",
+              filename = "__undermark5-ultracube-tweaks__/assets/buildings/flare-stack/flare-stack-e-mirror.png",
               width = 150,
               height = 300,
               scale = 0.5,
@@ -54,7 +54,7 @@ if flare_stack ~= nil then
         south = {
           layers = {
             {
-              filename = "__Ultramark5__/assets/buildings/flare-stack/flare-stack-s-mirror.png",
+              filename = "__undermark5-ultracube-tweaks__/assets/buildings/flare-stack/flare-stack-s-mirror.png",
               width = 150,
               height = 300,
               scale = 0.5,
@@ -76,7 +76,7 @@ if flare_stack ~= nil then
         west = {
           layers = {
             {
-              filename = "__Ultramark5__/assets/buildings/flare-stack/flare-stack-w-mirror.png",
+              filename = "__undermark5-ultracube-tweaks__/assets/buildings/flare-stack/flare-stack-w-mirror.png",
               width = 150,
               height = 300,
               scale = 0.5,
